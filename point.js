@@ -91,3 +91,7 @@
         new google.maps.LatLng(53.690201, 14.375610),
         new google.maps.LatLng(53.748711, 14.238281)
     ];
+ var statePoint = [
+
+     new google.maps.LatLng(53.748711, 14.238281)
+ ];

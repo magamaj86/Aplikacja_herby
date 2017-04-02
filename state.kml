@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>state</name>
+    <Style id="poly-FBC02D-0-143-nodesc-normal">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>0</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8f2dc0fb</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-FBC02D-0-143-nodesc-highlight">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>0</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8f2dc0fb</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-FBC02D-0-143-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FBC02D-0-143-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FBC02D-0-143-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>woj. Podlskie</name>
+      <styleUrl>#poly-FBC02D-0-143-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              22.7966309,54.3485528,0
+              22.532959,54.2267078,0
+              22.7636719,53.8654855,0
+              21.9726563,53.4945818,0
+              21.6210938,53.4815083,0
+              22.1154785,52.8094028,0
+              22.6208496,52.4024189,0
+              23.1591797,52.301761,0
+              23.4997559,52.569673,0
+              23.7414551,52.6230601,0
+              23.972168,52.7030187,0
+              23.90625,52.9486379,0
+              23.8293457,53.2520688,0
+              23.4887695,53.9366878,0
+              23.4777832,54.1817266,0
+              23.104248,54.3101143,0
+              22.8515625,54.4253219,0
+              22.7966309,54.3485528,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
