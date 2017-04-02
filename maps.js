@@ -9,7 +9,7 @@ function startGoogleMaps() {
     };
     polandMap = new google.maps.Map(document.getElementById("googleMaps"), mapOption);
 
-    addPolandLine(); //funkcja do obramowki
+    addPolandLine(); // funkcja do obramowki
     addGoogleResize();// do skalowania mapy
 
     addMarker(53.4193, 14.5816, 'Dymek otworzony na markerze');// marker z dymkiem
