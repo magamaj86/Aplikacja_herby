@@ -15,6 +15,7 @@ function startGoogleMaps() {
     addMarker(53.4193, 14.5816, 'Dymek otworzony na markerze');// markera z dymkiem
     addMarker(50.06465, 19.94498, 'Miasto Kraków');
     addMarker(51.107885 , 17.038538, 'Miasto Wrocław');
+    addMarker(50.675107 , 7.921298, 'Miasto Opole');
 }
 
 function addPolandLine() {
