@@ -29,6 +29,7 @@ function startGoogleMaps() {
     addMarker(53.132489, 23.16884, 'Miasto Białystok');
     addMarker(53.778422, 20.480119, 'Miasto Olsztyn');
     addMarker(54.352025, 18.646638, 'Miasto Gdańsk');
+    addStateLine(); // obramowka wojewodztwa
  }
 
 function addPolandLine() {
@@ -41,6 +42,9 @@ function addPolandLine() {
         fillColor: '#ff0000',
         fillOpacity: 0.2
     });
+}
+function addStateLine() { //wojewodztwa
+    new geoXML3.parser({map: polandMap}).parse('state.kml');
 }
 
 function addMarker(lat, lng, txt) {
