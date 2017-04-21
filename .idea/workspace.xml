@@ -1,12 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="039bd3d7-a252-4447-822d-6eb800e05586" name="Default" comment="pliki">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-1.11.1..min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery.mobile-1.4.5.min.js" />
+    <list default="true" id="039bd3d7-a252-4447-822d-6eb800e05586" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-bialegostoku.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-bielsko-bialej.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-gdanska.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-katowic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-kielc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-krakowa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-lidzbarka-warminskiego.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-lodzi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-lublina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-nowego-sacza.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-olsztyna.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-opola.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-poznania.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-rzeszowa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-szczecina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-torunia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-warszawy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-wroclawia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-zielonej-gory.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/Miasta/herb-zywca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/polska.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/polska.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/dolnoslaskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/kujawskopomorskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/lodzkie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/lubelskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/lubuskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/malopolskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/mazowieckie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/opolskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/podkarpackie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/podlaskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/pomorskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/slaskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/swietokrzyskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/warminsko_mazurskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/wielkopolskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/Wojewodztwa/zachodniopomorskie_mapa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/bialystok.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/gdansk.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/katowice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/kielce.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/krakow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/lodz.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/lublin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/olsztyn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/opole.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/poznan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/rzeszow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/szczecin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/torun.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/warszawa.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/wroclaw.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/cities/zielona_gora.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/geoxml3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/herby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/jquery-1.11.1..min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/jquery.mobile-1.4.5.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/jquery.mobile-1.4.5.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/point.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/state.kml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/dolnoslaskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/kujawskopomorskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/lodzkie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/lubelskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/lubuskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/malopolskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/mazowieckie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/opolskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/podkarpackie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/podlaskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/pomorskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/slaskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/swietokrzyskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/warminsko.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/wielkopolskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/states/zachodniopomorskie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/style.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-bialegostoku.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-bielsko-bialej.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-gdanska.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-katowic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-kielc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-krakowa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-lidzbarka-warminskiego.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-lodzi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-lublina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-nowego-sacza.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-olsztyna.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-opola.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-poznania.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-rzeszowa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-szczecina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-torunia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-warszawy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-wroclawia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-zielonej-gory.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/Miasta/herb-zywca.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/bialystok.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/gdansk.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/katowice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/kielce.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/krakow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/lodz.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/lublin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/olsztyn.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/opole.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/poznan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/rzeszow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/szczecin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/torun.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/warszawa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/wroclaw.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cities/zielona_gora.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/geoxml3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/herby.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/polska.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery-1.11.1..min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery.mobile-1.4.5.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery.mobile-1.4.5.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/point.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/polska.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/state.kml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/dolnoslaskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/kujawskopomorskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/lodzkie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/lubelskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/lubuskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/malopolskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/mazowieckie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/opolskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/podkarpackie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/podlaskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/pomorskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/slaskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/swietokrzyskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/warminsko_mazurskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/wielkopolskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/Wojewodztwa/zachodniopomorskie_mapa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/dolnoslaskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/kujawskopomorskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/lodzkie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/lubelskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/lubuskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/malopolskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/mazowieckie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/opolskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/podkarpackie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/podlaskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/pomorskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/slaskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/swietokrzyskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/warminsko.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/wielkopolskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/states/zachodniopomorskie.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/style.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,58 +179,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="64" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.mobile-1.4.5.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jquery.mobile-1.4.5.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.mobile-1.4.5.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jquery.mobile-1.4.5.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery-1.11.1..min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jquery-1.11.1..min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="1" column="960" lean-forward="true" selection-start-line="1" selection-start-column="960" selection-end-line="1" selection-end-column="960" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -152,6 +260,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Aplikacja_herby" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Aplikacja_herby" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Aplikacja_herby" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -438,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491726596947</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="pliki">
+      <created>1492798389243</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1492798389243</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -484,7 +613,8 @@
     <MESSAGE value="dodano miasta" />
     <MESSAGE value="wojewodztwa i miasta" />
     <MESSAGE value="miasta update" />
-    <option name="LAST_COMMIT_MESSAGE" value="miasta update" />
+    <MESSAGE value="pliki" />
+    <option name="LAST_COMMIT_MESSAGE" value="pliki" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -495,9 +625,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -505,9 +633,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -515,9 +641,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -525,9 +649,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -535,9 +657,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -545,9 +665,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="52" lean-forward="false" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -563,9 +681,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -573,9 +689,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -583,9 +697,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -593,9 +705,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -603,9 +713,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -613,9 +721,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -623,9 +729,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -633,9 +737,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -672,9 +774,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -792,9 +892,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -802,9 +900,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="52" lean-forward="false" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -812,9 +908,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -822,9 +916,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -832,9 +924,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -842,9 +932,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -852,29 +940,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery.mobile-1.4.5.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery.mobile-1.4.5.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -894,6 +964,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="64" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.mobile-1.4.5.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.mobile-1.4.5.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
