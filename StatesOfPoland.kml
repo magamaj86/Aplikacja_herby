@@ -44,7 +44,9 @@
     <Folder>
       <name>Wojewodztwa</name>
       <Placemark>
-        <name>Województwo Pomorskie</name>
+        <name>Województwo Pomorskie
+            <![CDATA[  <a href="states/pomorskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -107,7 +109,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Zachodniopomorskie</name>
+        <name>Województwo Zachodniopomorskie
+             <![CDATA[  <a href="states/zachodniopomorskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -169,7 +173,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Wielkopolskie</name>
+        <name>Województwo Wielkopolskie
+             <![CDATA[  <a href="states/wielkopolskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -248,7 +254,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Lubuskie</name>
+        <name>Województwo Lubuskie
+             <![CDATA[  <a href="states/lubuskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -301,7 +309,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Dolnośląskie</name>
+        <name>Województwo Dolnośląskie
+             <![CDATA[  <a href="states/dolnoslaskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -360,7 +370,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Kujawsko-Pomorskie</name>
+        <name>Województwo Kujawsko-Pomorskie
+             <![CDATA[  <a href="states/kujawskopomorskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -414,7 +426,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Warmińsko-Mazurskie</name>
+        <name>Województwo Warmińsko-Mazurskie
+             <![CDATA[  <a href="states/warminsko.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -470,7 +484,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Mazowieckie</name>
+        <name>Województwo Mazowieckie
+             <![CDATA[  <a href="states/mazowieckie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -545,7 +561,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Łódzkie</name>
+        <name>Województwo Łódzkie
+             <![CDATA[  <a href="states/lodzkie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -595,7 +613,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Opolskie</name>
+        <name>Województwo Opolskie
+             <![CDATA[  <a href="states/opolskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -635,7 +655,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Śląskie</name>
+        <name>Województwo Śląskie
+             <![CDATA[  <a href="states/slaskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -687,7 +709,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Świętokrzyskie</name>
+        <name>Województwo Świętokrzyskie
+             <![CDATA[  <a href="states/swietokrzyskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -730,7 +754,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Małopolskie</name>
+        <name>Województwo Małopolskie
+             <![CDATA[  <a href="states/malopolskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -813,7 +839,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Podlaskie</name>
+        <name>Województwo Podlaskie
+             <![CDATA[  <a href="states/podlaskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -866,7 +894,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Lubelskie</name>
+        <name>Województwo Lubelskie
+             <![CDATA[  <a href="states/lubelskie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
@@ -940,7 +970,9 @@
         </Polygon>
       </Placemark>
       <Placemark>
-        <name>Województwo Podkarpackie</name>
+        <name>Województwo Podkarpackie
+             <![CDATA[  <a href="states/podkarpackie.html">Zobacz więcej</a> ]]>
+        </name>
         <styleUrl>#poly-7CB342-1-77-nodesc</styleUrl>
         <Polygon>
           <outerBoundaryIs>
