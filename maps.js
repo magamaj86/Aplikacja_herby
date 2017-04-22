@@ -31,7 +31,7 @@ function startGoogleMaps() {
     addMarker(53.778422, 20.480119, 'Miasto Olsztyn      </br><a href="cities/olsztyn.html">Zobacz więcej</a>');
     addMarker(54.352025, 18.646638, 'Miasto Gdańsk       </br><a href="cities/gdansk.html">Zobacz więcej</a>');
     addStateLine(); // obramowka wojewodztwa
- }
+}
 
 function addPolandLine() {
     new google.maps.Polygon({
@@ -101,6 +101,3 @@ function setInitView() {
     });
 
 }
-
-
-
