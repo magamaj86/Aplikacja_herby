@@ -1,12 +1,13 @@
 var polandMap; // obiekt globalny
 var init = true;
+var markers = [];
 
 
 
 function startGoogleMaps() {
     var mapOption = {
         minZoom: 5,
-        mapTypeId: google.maps.MapTypeId.SATELLITE,
+        mapTypeId: google.maps.MapTypeId.hybrid,
         disableDefaultUI: true,
     };
     polandMap = new google.maps.Map(document.getElementById("googleMaps"), mapOption);
@@ -60,8 +61,13 @@ function addMarker(lat, lng, txt) {
 
     var markerText = new google.maps.InfoWindow();// dymek do markera
     markerText.setContent(txt);
-
+    markers.push(markerText);
     google.maps.event.addListener(marker, "click", function () {
+
+        $.each(markers, function( index, value ) {
+            value.close();
+        });
+
         markerText.open(polandMap, marker);// wywolanie markera
     });
     return marker;
