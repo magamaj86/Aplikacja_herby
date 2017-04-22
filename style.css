@@ -5,22 +5,6 @@
     background: gray;
 }
 
-
-@media (max-width: 300px) {
     .mapsRectangle {
-        height: 100px;
+        height: 400px;
     }
-}
-
-@media (max-width: 600px) {
-    .mapsRectangle {
-        height: 200px;
-    }
-}
-
-@media (max-width: 3000px) {
-    .mapsRectangle {
-        height: 900px;
-    }
-}
-
