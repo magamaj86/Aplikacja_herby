@@ -14,7 +14,7 @@ function startGoogleMaps() {
 
     // marker z dymkiem
     addMarker(50.06465, 19.94498, 'Miasto Kraków       </br><a href="cities/krakow.html">Zobacz więcej</a>');
-    addMarker(51.107885, 17.038538, 'Miasto Wrocław      </br><a href="cities/wroclaw.html">Zobacz więcej</a>');
+    addMarker(51.107885, 17.038538, 'Miasto Wrocław    </br><a href="cities/wroclaw.html">Zobacz więcej</a>');
     addMarker(50.675107, 17.921298, 'Miasto Opole        </br><a href="cities/opole.html">Zobacz więcej</a>');
     addMarker(50.264892, 19.023782, 'Miasto Katowice     </br><a href="cities/katowice.html">Zobacz więcej</a>');
     addMarker(50.041187, 21.99912, 'Miasto Rzeszów       </br><a href="cities/rzeszow.html">Zobacz więcej</a>');
