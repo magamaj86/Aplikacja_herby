@@ -14,14 +14,14 @@
 <allow-intent href="https://*/*" />
 <allow-intent href="geo:*" />
 <plugin name="cordova-plugin-whitelist" spec="1" />
-  <name>PhoneGap Example</name>
+  <name>Herby województw i miast polskich</name>
 
   <description>
-      An example for phonegap build docs.
+      Herby województw i miast polskich.
   </description>
 
   <author href="http://www.google.pl" email="test@mail.com">
-      Hardeep Shoker
+      A.Jedrichowska, A.Juszczak
   </author>
 
 </widget>
