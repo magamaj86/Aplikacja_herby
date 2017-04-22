@@ -1,7 +1,10 @@
 var polandMap; // obiekt globalny
 var init = true;
 
+
+
 function startGoogleMaps() {
+    alert("OK");
     var mapOption = {
         mapTypeId: google.maps.MapTypeId.SATELLITE,
         disableDefaultUI: true,
