@@ -5,6 +5,21 @@
     background: gray;
 }
 
+
+@media (max-width: 300px) {
     .mapsRectangle {
-        height: 400px;
+        height: 100px;
     }
+}
+
+@media (max-width: 600px) {
+    .mapsRectangle {
+        height: 200px;
+    }
+}
+
+@media (max-width: 3000px) {
+    .mapsRectangle {
+        height: 900px;
+    }
+}
