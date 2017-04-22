@@ -5,6 +5,7 @@ var init = true;
 
 function startGoogleMaps() {
     var mapOption = {
+        minZoom: 5,
         mapTypeId: google.maps.MapTypeId.SATELLITE,
         disableDefaultUI: true,
     };
@@ -75,6 +76,7 @@ function setInitView() {
     google.maps.event.addListener(polandMap, 'bounds_changed', function (event) {
         if(init) {
             polandMap.setOptions({minZoom: polandMap.zoom});
+            alert(polandMap.zoom);
             init = false;
         }
     });
