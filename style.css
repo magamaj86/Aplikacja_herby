@@ -1,25 +1,3 @@
-.googleMaps {
-    width: 100%;
-    height: 100%;
-    border: 1px solid black;
-    background: gray;
-}
-
-
-@media (max-width: 300px) {
-    .mapsRectangle {
-        height: 100px;
-    }
-}
-
-@media (max-width: 600px) {
-    .mapsRectangle {
-        height: 200px;
-    }
-}
-
-@media (max-width: 3000px) {
-    .mapsRectangle {
-        height: 900px;
-    }
+#content {
+    padding: 0 !important;
 }
