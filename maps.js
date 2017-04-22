@@ -12,7 +12,7 @@ function startGoogleMaps() {
     addPolandLine(); // funkcja do obramowki
     addGoogleResize();// do skalowania mapy
 
-    addMarker(53.4193, 14.5816, 'Dymek otworzony na markerze');// marker z dymkiem
+    // marker z dymkiem
     addMarker(50.06465, 19.94498, 'Miasto Kraków');
     addMarker(51.107885, 17.038538, 'Miasto Wrocław');
     addMarker(50.675107, 17.921298, 'Miasto Opole');
@@ -44,7 +44,7 @@ function addPolandLine() {
     });
 }
 function addStateLine() { //wojewodztwa
-    new geoXML3.parser({map: polandMap}).parse('state.kml');
+    new geoXML3.parser({map: polandMap}).parse('StatesOfPoland.kml');
 }
 
 function addMarker(lat, lng, txt) {
