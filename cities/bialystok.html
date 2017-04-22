@@ -2,6 +2,7 @@
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
+
     <title>Miasta</title>
 </head>
 <body>
@@ -9,7 +10,7 @@
 
     <div data-role="header">
         <h1>Białystok</h1>
-        <a href="#home" data-icon="home" data-iconpos="notext">Start</a> <!--- poprawic aby wracalo do stony poczatkowekjw -->
+        <a href="#home" data-icon="home" data-iconpos="notext">Start</a>
     </div>
     <div id="logo">
         <img src="Miasta/herb-bialegostoku.png" style="max-width: 60%">
@@ -17,15 +18,33 @@
     <div data-role="content">
         <p>Metryczka</p>
             <ul data-role="listview">
-                <li>Województwo: Podlaskie</li>
-                <li>Liczba ludności: 294 675 (2012)</li>
-                <li>Powierzchnia: 102,1 km²</li>
+                <li><p>Województwo: <span id="p_wojewodztwo"></span></p></li>
+                <li><p>Liczba ludności: <span id="p_ludnosc"></span></p></li>
+                <li><p>Powierzchnia: <span id="p_powierzchnia"></span></p></li>
             </ul>
     </div>
+
+    <script>
+
+        var data = {
+            "wojewodztwo" : "Podlaskie",
+            "ludnosc" : "296 310 (2012r)",
+            "powierzchnia" : "102,12 km²"
+            };
+
+        document.getElementById("p_wojewodztwo").innerHTML = data.wojewodztwo;
+        document.getElementById("p_ludnosc").innerHTML = data.ludnosc;
+        document.getElementById("p_powierzchnia").innerHTML = data.powierzchnia;
+
+    </script>
+
+
+
+
     <div data-role="footer" data-position="fixed"> <!-- stopka -->
         <div data-role="navbar">  <!--zewnętrzny kontener paska -->
             <ul>
-                <li><a href="#two" data-icon="arrow-r" data-transition="fade">Herby miast</a></li> <!--- poprawic aby wracalo do listy wojewodztw -->
+                <li><a href="#two" data-icon="arrow-r" data-transition="fade">Herby miast</a></li>
             </ul>
         </div>
     </div>
