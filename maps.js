@@ -1,16 +1,14 @@
 var polandMap; // obiekt globalny
+var init = true;
 
 function startGoogleMaps() {
     var mapOption = {
-        zoom: 5,
-        center: new google.maps.LatLng(52.01930607460169, 18.810742187499983),
         mapTypeId: google.maps.MapTypeId.SATELLITE,
         disableDefaultUI: true,
     };
     polandMap = new google.maps.Map(document.getElementById("googleMaps"), mapOption);
-
+    setInitView();
     addPolandLine(); // funkcja do obramowki
-    addGoogleResize();// do skalowania mapy
 
     // marker z dymkiem
     addMarker(50.06465, 19.94498, 'Miasto Kraków       </br><a href="cities/krakow.html">Zobacz więcej</a>');
@@ -43,8 +41,9 @@ function addPolandLine() {
         fillOpacity: 0.2
     });
 }
+
 function addStateLine() { //wojewodztwa
-    new geoXML3.parser({map: polandMap}).parse('StatesOfPoland.kml');
+    new geoXML3.parser({map: polandMap, zoom: false}).parse('StatesOfPoland.kml');
 }
 
 function addMarker(lat, lng, txt) {
@@ -65,14 +64,41 @@ function addMarker(lat, lng, txt) {
     return marker;
 }
 
-function  addGoogleResize() {
-    // Resize stuff...
-    google.maps.event.addDomListener(window, "resize", function () {
-        var center = polandMap.getCenter();
-        google.maps.event.trigger(polandMap, "resize");
-        polandMap.setCenter(center);
+function setInitView() {
+    var initialBounds = new google.maps.LatLngBounds(
+        new google.maps.LatLng(49.963404, 15.842683), // max lewy dol  czyli poludnie zachod
+        new google.maps.LatLng(54.732558, 23.497754)  // max prawa gora czyli polnoc wschod
+    );
+
+    google.maps.event.addListener(polandMap, 'bounds_changed', function (event) {
+        if(init) {
+            polandMap.setOptions({minZoom: polandMap.zoom});
+            init = false;
+        }
     });
+
+    polandMap.fitBounds(initialBounds);
+
+    var centerBounds = new google.maps.LatLngBounds(
+        new google.maps.LatLng(51.277231, 17.534812), // max lewy dol  czyli poludnie zachod
+        new google.maps.LatLng(53.497035, 21.855902)  // max prawa gora czyli polnoc wschod
+    );
+
+    var lastValidCenter = polandMap.getCenter();
+
+    google.maps.event.addListener(polandMap, 'center_changed', function() {
+        if (centerBounds.contains(polandMap.getCenter())) {
+            // still within valid bounds, so save the last valid position
+            lastValidCenter = polandMap.getCenter();
+            return;
+        }
+
+        // not valid anymore => return to last valid position
+        polandMap.panTo(lastValidCenter);
+    });
+
 }
+
 
 
 
