@@ -76,7 +76,6 @@ function setInitView() {
     google.maps.event.addListener(polandMap, 'bounds_changed', function (event) {
         if(init) {
             polandMap.setOptions({minZoom: polandMap.zoom});
-            alert(polandMap.zoom);
             init = false;
         }
     });
