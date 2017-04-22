@@ -6,7 +6,7 @@ var init = true;
 function startGoogleMaps() {
     var mapOption = {
         minZoom: 5,
-        mapTypeId: google.maps.MapTypeId.SATELLITE,
+        mapTypeId: google.maps.MapTypeId.HYBRID,
         disableDefaultUI: true,
     };
     polandMap = new google.maps.Map(document.getElementById("googleMaps"), mapOption);
