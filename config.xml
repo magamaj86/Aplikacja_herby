@@ -4,8 +4,7 @@
     id          = "com.phonegap.example"
     versionCode = "10"
     version     = "1.0.0" >
-
-<!-- versionCode is optional and Android only -->
+    
 
 <platform name="android" />
 
@@ -20,7 +19,7 @@
       Herby województw i miast polskich.
   </description>
 
-  <author href="http://www.google.pl" email="test@mail.com">
+  <author href="https://github.com/magamaj86/Aplikacja_herby" email="ola.jed@wp.pl">
       A.Jedrichowska, A.Juszczak
   </author>
 
