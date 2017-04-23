@@ -17,18 +17,18 @@
 
     <script src="point.js"></script>
     <script src="maps.js"></script>
-    <script src="app.js"></script>
     <link rel="stylesheet" href="style.css"/>
 
 
     <title>Herby województw i miast polskich</title>
 
     <script>
-        $(document).on('pageshow', '#home',function(e,data){
-            $('#content').height(getRealContentHeight());
-            startGoogleMaps();
+        $(document).on('pageshow', '#home',function(){
+            setTimeout(function(){
+                $('#content').height(getRealContentHeight());
+                startGoogleMaps();
+            }, 1);
         });
-
         function getRealContentHeight() {
             var header = $.mobile.activePage.find("div[data-role='header']:visible");
             var footer = $.mobile.activePage.find("div[data-role='footer']:visible");
