@@ -6,7 +6,7 @@ var markers = [];
 
 function startGoogleMaps() {
     var mapOption = {
-        minZoom: 5,
+        minZoom: 2,
         mapTypeId: google.maps.MapTypeId.hybrid,
         disableDefaultUI: true,
     };
